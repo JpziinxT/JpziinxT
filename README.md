@@ -20,6 +20,3 @@
     <a href="https://www.instagram.com/j.pauloxiv/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"></a>
     <a href="https://www.linkedin.com/in/jo%C3%A3o-paulo-a414262a6/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"></a>
 </div>
-
-
-![snake gif](https://github.com/JpziinxT/JpziinxT/blob/output/github-contribution-grid-snake.svg)
